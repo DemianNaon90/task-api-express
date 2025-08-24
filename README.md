@@ -20,7 +20,7 @@ cd mongo-version
 npm install
 npm run start
 
-**### SQLite**
+### SQLite
 cd sqlite-version
 npm install
 npm run start
