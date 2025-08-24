@@ -19,3 +19,8 @@ Carpeta: `sqlite-version/`
 cd mongo-version
 npm install
 npm run start
+
+**### SQLite**
+cd sqlite-version
+npm install
+npm run start
